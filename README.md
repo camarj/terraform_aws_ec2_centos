@@ -1,5 +1,5 @@
 # terraform_aws_ec2_centos
-Despliegue de instancia EC2 con ubuntu en aws con terraform.
+Despliegue de instancia EC2 con centos en aws con terraform.
 
 Para iniciar el proyecto
 
